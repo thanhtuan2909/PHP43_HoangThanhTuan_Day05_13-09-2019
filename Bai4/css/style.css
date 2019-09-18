@@ -1,0 +1,47 @@
+#container {
+	max-width: 400px;
+}
+
+.form-content {	
+	margin: auto;
+}
+
+input[type=submit] {
+	width: 100%;
+	margin-bottom: 30px;
+}
+
+.form-title {
+	text-align: center;
+	padding-bottom: 50px;
+}
+
+.btn-light {
+	background: #c0c0c0;
+	border-color: #c0c0c0;
+	color: #333333;
+}
+
+.btn-primary {
+	background: #337ab7;
+	border-color: #337ab7;
+	color: #fff;
+}
+
+body {
+	background: #fafafa;
+}
+
+.item-link .form-group {
+	margin-bottom: 10px;
+}
+
+form {
+	padding-top: 50px;
+}
+
+.link-social {
+	width: 100%;
+	margin-bottom: 10px;
+	overflow: hidden;
+}
