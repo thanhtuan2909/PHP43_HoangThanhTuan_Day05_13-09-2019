@@ -405,6 +405,8 @@ hr {
 
 .form-control {
 	background: #273a71;
+	outline: none;
+	border-color: #273a71
 }
 
 .form-control::placeholder {
