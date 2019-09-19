@@ -403,10 +403,13 @@ hr {
 	font-size: 18px;
 }
 
+.form-control {
+	background: #273a71;
+}
 
-
-
-
+.form-control::placeholder {
+	color: #fff;
+}
 
 
 
